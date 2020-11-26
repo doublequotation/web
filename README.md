@@ -1,2 +1,3 @@
 # web
-The web interface for nospin.
+
+The web interface for qoute.
