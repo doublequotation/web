@@ -1,3 +1,3 @@
 # web
 
-The web interface for qoute.
+The web interface for quote.
